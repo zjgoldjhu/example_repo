@@ -1,2 +1,2 @@
 # example_repo
-Example Repo from Day1
+Example Repo from Day 1
